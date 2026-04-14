@@ -82,6 +82,17 @@
   <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </p>
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dzikraahsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dzikraahsan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dzikraahsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Dzikraahsan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![Top language](https://stats.pphat.top/languages?username=Dzikraahsan)
 <br/>
 
