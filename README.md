@@ -11,7 +11,7 @@
 ## 📌 About Me
 - 🌱I'm currently learning  programming language Dart, JavaScript, Typescript & PHP
 - 👦 I'm 17 years old
-- 🖥️ I continue my journey as a programmer in the family
+- 🖥️ I continue my journey as a programmer 
 
 
 ## 🧠 My Focus Areas
