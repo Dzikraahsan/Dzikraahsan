@@ -31,9 +31,9 @@ I'm a 17-year-old frontend developer with a software engineering background, pas
 ---
 
 **Focus** — UI/UX Architecture & Frontend Engineering  
-**Learning** — Advanced React patterns, TypeScript, & PHP (Laravel)  
-**Building** — Personal projects, web experiments, & Canva design collaborations  
-**Workflow** — Actively integrating AI tooling (Aura, Tabnine) for rapid iteration  
+**Learning** — Advanced React patterns, TypeScript, & React 
+**Building** — Personal projects, web experiments, & Figma design collaborations  
+**Workflow** — Actively integrating AI tooling (CLI, LLM)  
 **Deploying** — Vercel, Render, Netlify, and Railway  
 
 <br>
@@ -101,6 +101,8 @@ A personal page presenting my work, skills, and interest, with customize styles 
 A modern real-estate web application emphasizing clean backend architecture and a responsive structural layout.
 
 `React.js` · `Supabase`
+
+[View project →](https://dzii-finance.vercel.app)
 
 <br>
 
