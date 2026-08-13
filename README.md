@@ -88,19 +88,19 @@ I'm a 17-year-old frontend developer with a software engineering background, pas
 
 **01 / Personal Portfolio**
 
-Crafted with sleek aesthetics to act as a live testing ground for UI/UX decisions, presenting my work, skills, and interests.
+A personal page presenting my work, skills, and interest, with customize styles and layouts.
 
-`Next.js` · `Tailwind CSS` · `React.js`
+`Next.js` · `Tailwind CSS` · `Framer Motion`
 
 [View Project →](https://dzii-portfolio.vercel.app)
 
 <br>
 
-**02 / Dream Home**
+**02 / Finance Tracking**
 
 A modern real-estate web application emphasizing clean backend architecture and a responsive structural layout.
 
-`Laravel` · `Bootstrap` · `MySQL`
+`React.js` · `Supabase`
 
 <br>
 
