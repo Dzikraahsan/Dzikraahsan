@@ -22,7 +22,7 @@
 
 ---
 
-I'm a 17-year-old frontend developer with a software engineering background, passionately continuing my journey in building thoughtful interfaces with modern web technologies. My approach combines practical engineering—honed through programs like the **AI Front-End Developer Scholar** at IDCamp (Dicoding) and the **AI Engineering Mini Course** at ReWork Academy—with a strong focus on design systems, clarity, and user experience.
+I'm a 17-year-old frontend developer with a software engineering background, passionately continuing my journey in building thoughtful interfaces with modern web technologies. My approach combines practical engineering—honed through programs like the **BNSP Certification Web Programming** and the **AI Engineering Mini Course** at ReWork Academy—with a strong focus on design systems, clarity, and user experience.
 
 <br>
 
@@ -104,11 +104,11 @@ A modern real-estate web application emphasizing clean backend architecture and 
 
 <br>
 
-**03 / Web Administration & Kaifood**
+**03 / Kaifood**
 
 Managing and developing custom architecture for a personal web domain (*kaifood.web.id*), including a food business website for a local restaurant that presents their full menu.
 
-`React.js` · `REST API`
+`React.js` · `API Integration`
 
 [View project →](https://kaifood.web.id)
 
