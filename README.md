@@ -15,9 +15,9 @@
   <br>
   
   - 👦 I'm **17 years old** and passionately continuing my journey as a Frontend Developer.
-  - 🎓 **AI Front-End Developer Scholar** at IDCamp (Dicoding) & completed the **AI Engineering Mini Course** at ReWork Academy.
-  - 🌱 Currently mastering **JavaScript, TypeScript, React.js, Tailwind CSS, and PHP (Laravel)**.
-  - 💡 Actively integrating AI into my workflow using tools like **Aura** and **Tabnine**.
+  - 🎓 **Web Programming** BNSP Certification & completed the **AI Engineering Mini Course** at ReWork Academy.
+  - 🌱 Currently mastering **JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, and PHP (Laravel)**.
+  - 💡 Actively integrating AI into my workflow using tools like **CLI** and **LLM**.
   - 🚀 Deploying fast and modern web applications seamlessly on **Vercel, Render, Netlify, and Railway**.
 </details>
 
@@ -27,10 +27,10 @@
   <summary><b>🔭 What I'm currently working on</b></summary>
   <br>
 
-  - 🏠 **Dream Home:** A modern web application built with **Laravel & Bootstrap**.
-  - 🎨 **Personal Portfolio:** Crafted with sleek aesthetics using **React.js & Tailwind CSS**.
-  - 🌍 **Web Administration:** Managing and developing for my personal domain, *kaifood.web.id*.
-  - 🤝 Collaborating in specialized design teams to build engaging UI/UX projects using Canva and modern web frameworks.
+  - 🏠 **Finance Tracker:** A modern web application built with **React.js & Supabase**.
+  - 🎨 **Personal Portfolio:** Crafted with sleek aesthetics using **Next.js & Tailwind CSS**.
+  - 🌍 **Web Marketplace:** Managing and developing for my personal domain, *kaifood.web.id*.
+  - 🤝 Collaborating in specialized design teams to build engaging UI/UX projects using Figma and modern web frameworks.
 </details>
 
 ---
