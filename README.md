@@ -1,97 +1,124 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Dzikra%20Ahsan%20Imawan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Dzikraahsan">
+    <img src="https://komarev.com/ghpvc/?username=Dzikraahsan&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dzikraahsan's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+
+<details>
+  <summary><b>✨ Click to know more about my journey!</b></summary>
+  <br>
+  
+  - 👦 I'm **17 years old** and passionately continuing my journey as a Frontend Developer.
+  - 🎓 **AI Front-End Developer Scholar** at IDCamp (Dicoding) & completed the **AI Engineering Mini Course** at ReWork Academy.
+  - 🌱 Currently mastering **JavaScript, TypeScript, React.js, Tailwind CSS, and PHP (Laravel)**.
+  - 💡 Actively integrating AI into my workflow using tools like **Aura** and **Tabnine**.
+  - 🚀 Deploying fast and modern web applications seamlessly on **Vercel, Render, Netlify, and Railway**.
+</details>
+
+## 🚀 Featured Projects & Focus
+
+<details>
+  <summary><b>🔭 What I'm currently working on</b></summary>
+  <br>
+
+  - 🏠 **Dream Home:** A modern web application built with **Laravel & Bootstrap**.
+  - 🎨 **Personal Portfolio:** Crafted with sleek aesthetics using **React.js & Tailwind CSS**.
+  - 🌍 **Web Administration:** Managing and developing for my personal domain, *kaifood.web.id*.
+  - 🤝 Collaborating in specialized design teams to build engaging UI/UX projects using Canva and modern web frameworks.
+</details>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+> ### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+> ### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+> ### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</p>
+
+> ### 🔧 Tools & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-    <img src="./assets/hero.svg" alt="Dzikra Ahsan Imawan - Frontend Developer">
-  </picture>
-  
-  <br/>
-  
-  <a href="https://dzii-portfolio.vercel.app/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:dzikraahsan10@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://wa.me/83135319058" target="_blank">WhatsApp</a>
+  <a href="https://github.com/Dzikraahsan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dzikraahsan&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dzikraahsan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dzikraahsan&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
 </div>
 
-<br/>
-<br/>
+<br>
 
-## 01 / about
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Dzikraahsan&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
 
-I am a frontend developer focused on building interfaces that are both technically robust and visually quiet. My background is rooted in practical software engineering—having honed my skills through the IDCamp AI Front-End Developer track and the ReWork Academy AI Engineering course. 
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=Dzikraahsan" alt="Language Graph" />
+</p>
 
-I believe great software is equal parts technical precision and human empathy. Every interaction should feel intentional, and every architectural decision should have a purpose.
+---
 
-<br/>
+## 🔗 Connect with Me
+<p align="center"> 
+  <a href="https://wa.me/83135319058" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="mailto:dzikraahsan10@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="https://dzii27-page.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a>
+</p>
 
-## 02 / currently
+---
 
-| Status | Details |
-| :--- | :--- |
-| **Focus** | UI Architecture & Frontend Engineering |
-| **Building** | Hardware-accelerated interfaces and personal experiments |
-| **Learning** | Advanced rendering patterns & TypeScript |
-| **Availability** | Open to opportunities |
-
-<br/>
-
-## 03 / stack
-
-**Core Identity**
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
-**Backend & Database**
-`Supabase` · `Laravel` · `PHP` · `MySQL` · `Node.js`
-
-**Ecosystem & Architecture**
-`Git` · `GitHub` · `Vercel` · `Render` · `Figma`
-
-<br/>
-
-## 04 / work
-
-### 01 — Personal Portfolio
-Minimalist, hardware-accelerated frontend architecture acting as a live testing ground for UI/UX decisions and fluid motion design.
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-[Explore Repository ↗](https://github.com/Dzikraahsan)
-
-### 02 — Dzii Finance
-Financial dashboard interface focused on performance, clarity, and processing dense data presentations cleanly.
-`React` · `TypeScript` · `Supabase`
-
-### 03 — Dream Home
-A modern real-estate web application emphasizing clean backend architecture and a responsive structural layout.
-`Laravel` · `Bootstrap` · `MySQL`
-
-<br/>
-
-## 05 / philosophy
-
-> **Problem First**
-> *I have shipped the wrong solution before because I fell in love with a tool instead of the problem it was meant to solve.*
-
-> **Experience Over Complexity**
-> *A simpler solution that people can actually use always beats an elegant one that nobody understands.*
-
-> **Consistency Wins**
-> *Good interfaces are defined by the details: spacing, typography, interaction loops, and strict consistency.*
-
-<br/>
-
-## 06 / telemetry
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dzikraahsan&show_icons=false&hide_border=true&bg_color=00000000&title_color=8a8a8a&text_color=f5f5f5&icon_color=555555&hide_title=true&hide_rank=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dzikraahsan&show_icons=false&hide_border=true&bg_color=00000000&title_color=666666&text_color=111111&icon_color=888888&hide_title=true&hide_rank=true" alt="GitHub Stats">
-  </picture>
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-  <small>
-    Built with curiosity and intentionality.<br/>
-    © 2026 Dzikra Ahsan Imawan
-  </small>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
