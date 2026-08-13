@@ -71,7 +71,7 @@ A personal finance tracker designed to help users record income and expenses, mo
 
 `React.js` · `Supabase` 
 
-[Explore Repository →](https://github.com/Dzikraahsan)
+[View project →](https://dzii-finance.vercel.app/)
 
 <br>
 
@@ -81,7 +81,7 @@ A food business website for a local restaurant that presents their full menu.
 
 `React.js` · `REST API`
 
-[Visit Domain →](https://kaifood.web.id)
+[View project →](https://kaifood.web.id)
 
 <br>
 
